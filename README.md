@@ -10,7 +10,8 @@ https://colab.research.google.com/drive/1LvLrk86w430oZlVNu99rE6NHUPDXbx36?usp=sh
 Ссылка на результаты работы 
 https://colab.research.google.com/drive/1JmIfBNxRf3_ek14uHP5JH7p9Uszh8vOq?usp=sharing
 
-Так как там большое количество граффиков и в git невозможно просмотреть.
+Так как там большое количество граффиков и в git невозможно просмотреть, могут возникнуть проблемы
+Поэтому приложенны ссылки.
 
 Данные:
 квадратные матрицы N на N 
